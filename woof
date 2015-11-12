@@ -25,6 +25,7 @@
 # Cygwin support by Stefan Reichör <stefan@xsteve.at>
 # tarfile usage suggested by Morgan Lefieux <comete@geekandfree.org>
 # File upload support loosely based on code from Stephen English <steve@secomputing.co.uk>
+# Bootstrap support added by David Stockinger <dave.stockinger@gmail.com>
 
 import sys, os, errno, socket, getopt, commands, tempfile
 import cgi, urllib, urlparse, BaseHTTPServer
